@@ -1,0 +1,10 @@
+{
+  "name": "Srishti AI Assistant",
+  "description": "A supportive and friendly virtual companion named Srishti, specialized in emotional support, positivity, and study assistance in English and Hindi.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation",
+    "camera"
+  ],
+  "majorCapabilities": []
+}
